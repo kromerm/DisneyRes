@@ -1,0 +1,21 @@
+# Credentials — never commit these
+.env
+browser_session.json
+
+# Logs and debug output
+*.log
+debug_screenshots/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
